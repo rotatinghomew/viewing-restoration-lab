@@ -1,0 +1,65 @@
+{
+  "programs": {
+    "id": "str",
+    "start_utc": "int",
+    "end_utc": "int",
+    "local_day_boundary_utc": "int",
+    "critical_from": "int",
+    "critical_to": "int",
+    "threshold": "int",
+    "credit": "int"
+  },
+  "entitlements": {
+    "order": "str",
+    "person": "str",
+    "region": "str",
+    "program": "str",
+    "buy_utc": "int",
+    "source_scope": "str"
+  },
+  "outages": {
+    "id": "str",
+    "source": "str",
+    "program": "str",
+    "from_pos": "int",
+    "to_pos": "int",
+    "known_at": "int"
+  },
+  "playback": {
+    "id": "str",
+    "person": "str",
+    "program": "str",
+    "source": "str",
+    "from_pos": "int",
+    "to_pos": "int",
+    "state": "str",
+    "known_at": "int"
+  },
+  "rewatched": {
+    "person": "str",
+    "replay": "str",
+    "program": "str",
+    "from_pos": "int",
+    "to_pos": "int",
+    "utc": "int"
+  },
+  "replays": {
+    "id": "str",
+    "region": "str",
+    "programs": "str",
+    "start": "int",
+    "until": "int",
+    "covered_from": "int",
+    "covered_to": "int"
+  },
+  "receipts": {
+    "event": "str",
+    "order": "str",
+    "program": "str",
+    "kind": "str",
+    "state": "str",
+    "from_pos": "int",
+    "to_pos": "int",
+    "utc": "int"
+  }
+}

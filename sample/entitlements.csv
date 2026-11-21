@@ -1,0 +1,8 @@
+order,person,region,program,buy_utc,source_scope
+b1,p1,E,g11,-400,"alpha,beta"
+b1,p1,E,g12,-400,"alpha,beta"
+b2,p2,E,g11,-300,"alpha,beta"
+b3,p3,W,g11,-200,"alpha,beta"
+b4,p4,W,g11,-100,alpha
+b4,p4,W,g13,-100,alpha
+b5,p5,E,g13,14000,alpha

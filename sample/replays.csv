@@ -1,0 +1,4 @@
+id,region,programs,start,until,covered_from,covered_to
+east_pack,E,"g11,g12",7900,19000,0,7800
+west_cut,W,g11,7900,9700,3000,7800
+east_late,E,g13,20000,26000,0,5100

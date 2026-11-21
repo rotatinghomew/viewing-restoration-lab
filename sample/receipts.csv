@@ -1,0 +1,5 @@
+event,order,program,kind,state,from_pos,to_pos,utc
+d1,b2,g11,credit,posted,2100,3400,6500
+d2,b3,g11,replay,unknown,3000,4400,8500
+d3,b3,g11,replay,declined,3000,4400,9600
+d4,b4,g13,credit,declined,1100,1500,18000
