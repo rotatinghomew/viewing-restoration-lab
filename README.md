@@ -14,7 +14,7 @@
 
 ```sh
 python3 intake.py
-python3 -m unittest -v
+python3 -m unittest discover -s tests -v
 ```
 
 也可以将同格式的资料目录作为 `intake.py` 的位置参数。
