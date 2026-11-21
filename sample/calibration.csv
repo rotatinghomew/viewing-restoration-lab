@@ -1,0 +1,9 @@
+session,anchor,offset_min,offset_max,known_at
+watch_a,edge,2100,2820,5100
+watch_a,marker,2150,2750,5300
+watch_a,edge,2680,2800,9000
+watch_a,marker,2190,2500,11000
+watch_a,marker,2700,2750,11900
+watch_b,edge,2110,2150,10200
+watch_c,edge,3250,3480,6000
+watch_c,marker,3310,3500,12000

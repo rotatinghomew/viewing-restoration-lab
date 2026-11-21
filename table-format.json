@@ -33,6 +33,19 @@
     "from_pos": "int",
     "to_pos": "int",
     "state": "str",
+    "known_at": "int",
+    "session": "str"
+  },
+  "session_limits": {
+    "session": "str",
+    "offset_min": "int",
+    "offset_max": "int"
+  },
+  "calibration": {
+    "session": "str",
+    "anchor": "str",
+    "offset_min": "int",
+    "offset_max": "int",
     "known_at": "int"
   },
   "rewatched": {

@@ -1,0 +1,4 @@
+session,offset_min,offset_max
+watch_a,2100,3100
+watch_b,2000,2500
+watch_c,3200,3750
